@@ -1,0 +1,14 @@
+{
+    "name": "mynodejsapp",
+    "version": "1.0.0",
+    "description": "This is an interview assignment",
+    "main": "app.js",
+    "script": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Tolga Zeybek",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
